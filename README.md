@@ -15,8 +15,8 @@ Currently I'm doing a nice apprenticeship at Topmotive and in my freetime I'm de
 ## 🖥 TechStack
 **Languages:** HTML, CSS, JavaScript, C#, Python, SQL
 
-**Frameworks:** NodeJS, Vue.js, Nuxt.js, Electron, Express.js, ML5.js, ASP.NET
+**Frameworks:** NodeJS, Vue.js, Nuxt.js, Electron, Express.js, ML5.js, ASP.NET, .NET Core, Entity Framework Core
 
-**Databases:** MongoDB, MySQL, SQLite
+**Databases:** MongoDB, MySQL, SQLite, IndexedDB
 
-**Other skills:** WebSockets, Rest-APIs, RegExp, JSON, XML & RSS, Server Sent Events
+**Other skills:** WebSockets, Rest-APIs, RegExp, JSON, XML & RSS, Server Sent Events, Docker
