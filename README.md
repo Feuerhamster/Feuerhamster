@@ -7,7 +7,7 @@ I am 19 years old and have been programming since I was 14.
 Currently I'm doing a nice apprenticeship at Topmotive and in my freetime I'm developing some great projects.
 
 ## 🌍 Links & social
-**My website:** https://hamsterlabs.de
+**My website:** https://lmke.dev
 
 **Discord:** Feuerhamster#8828
 
