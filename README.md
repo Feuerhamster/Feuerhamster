@@ -1,5 +1,5 @@
 # 🌈 Feuerhamster
-*FullStack Web-Developer living in nothern germany*
+*FullStack Web-Developer from nothern germany*
 
 ## 🙋 About me
 I am 20 years old and have been programming since I was 14.
