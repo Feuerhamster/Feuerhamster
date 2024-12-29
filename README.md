@@ -7,8 +7,6 @@ I am 21 years old and have been programming since I was 14.
 ## 🌍 Links & social
 **My website:** https://lmke.dev
 
-**Discord:** Feuerhamster#8828
-
 
 ## 🖥 TechStack
 **Languages:** HTML, CSS, JavaScript/TypeScript, C#, Python, SQL
