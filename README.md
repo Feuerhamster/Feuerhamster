@@ -2,7 +2,7 @@
 *FullStack Web-Developer from nothern germany*
 
 ## 🙋 About me
-I am 21 years old and have been programming since I was 14.
+I am 22 years old and have been programming since I was 14.
 
 ## 🌍 Links & social
 **My website:** https://lmke.dev
