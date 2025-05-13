@@ -1,18 +1,17 @@
 # 🌈 Feuerhamster
-*FullStack Web-Developer from nothern germany*
+*FullStack Web-Developer from nothern germany, living in NRW*
 
 ## 🙋 About me
-I am 22 years old and have been programming since I was 14.
+I am 22 years old and have been programming since I am 14 years old.
 
 ## 🌍 Links & social
-**My website:** https://lmke.dev
+- **My website:** https://lmke.dev
+- **Mastodon:** https://chaos.social/@lmke
+- **Matrix:** @lena:chaospott.de
 
 
-## 🖥 TechStack
-**Languages:** HTML, CSS, JavaScript/TypeScript, C#, Python, SQL
-
-**Frameworks:** NodeJS, Vue.js, Nuxt.js, Svelte, SvelteKit, Electron, Express.js, ML5.js, ASP.NET, .NET Core, Entity Framework Core
-
-**Databases:** MongoDB, MySQL, SQLite, IndexedDB, Redis
-
-**Other skills:** WebSockets, Rest-APIs, RegExp, JSON, XML & RSS, Server Sent Events, Docker
+## 🖥 Tech
+- Professionally working as frontend-dev with TypeScript, Vue.js and Nuxt.
+- Hobby projects as full-stack with Svelte/SvelteKit on frontend and ASP.NET core on backend.
+  Formerly used TypeScript backends but got annyoed by it. I also love to do realtime stuff with websockets and server sent events.
+- Also sometimes doing some docker and linux stuff
